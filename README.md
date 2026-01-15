@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm David Hilscher
 
-<!--
-**davidhilscher/davidhilscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm currently working on **poker algorithms** & **SWE projects**
+- 🌱 Learning **Cloud Computing** and **System Design**
+- 💻 Interested in **Distributed Systems**, **Backend Development**, **DevOps/SRE**
 
-Here are some ideas to get you started:
+## Projects
+- **Poker AI:** Implemented opponent modeling & deployed API
+- **LeetCode Tracker:** Tracking my progress with containers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact
+- 🃏 I love exploring **poker strategies** and building algorithms to simulate them
