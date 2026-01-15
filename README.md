@@ -1,4 +1,4 @@
-# Hi there 👋, I'm David Hilscher
+# Hi 👋, I'm David Hilscher
 
 ## About Me
 - 🔭 I'm currently working on **poker algorithms** & **SWE projects**
