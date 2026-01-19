@@ -2,7 +2,7 @@
 
 ## About Me
 - Computer Science Student at **James Madison University**
-- 🔭 I'm currently working on **AWS CCP Certification** & **Anomaly Detector Project**
+- 🔭 I'm currently working on **AWS CCP Certification** & **Cloud Recommenation System**
 - 🌱 Learning **Cloud Computing** and **System Design**
 - 💻 Interested in **Distributed Systems**, **Backend Development**, **DevOps/SRE**
 
