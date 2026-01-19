@@ -4,7 +4,7 @@
 - Computer Science Student at **James Madison University**
 - 🔭 I'm currently working on **AWS CCP Certification** & **Cloud Recommenation System**
 - 🌱 Learning **Cloud Computing** and **System Design**
-- 💻 Interested in **Distributed Systems**, **Backend Development**, **DevOps/SRE**
+- 💻 Interested in **Distributed Systems**, **Machine Learning**, **DevOps/SRE**
 
 ## Projects
 - **Poker Bot:** Implemented opponent modeling & deployed APIs
