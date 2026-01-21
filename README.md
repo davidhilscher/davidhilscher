@@ -13,4 +13,4 @@
 ## Fun Facts
 - 🃏 Enjoy playing and exploring poker strategy and building algorithms to simulate them
 - Always looking to find limits on what can be computed/quantified
-- I love to dig deeper into how technologies/systems actually work (In the future I'd like to build my own OS and iOS app)
+- I love to dig deeper into how technologies/systems actually work (In the future I'd like to build my own OS Kernel and iOS app)
