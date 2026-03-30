@@ -8,8 +8,8 @@
 
 ## Projects
 - **Poker Bot:** Full-stack web app, implemented opponent modeling (JSON) & deployed APIs
+- **Gambling Data Site** Web app displaying data trends in USA
 - **LeetCode Tracker:** Tracking my progress with containers (In progress)
-- **AWS Gym Tracker** Tracks gym traffic in real-time (In progress)
 
 ## Fun Facts
 - Enjoy playing and exploring poker strategy and building algorithms to simulate them
