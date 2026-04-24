@@ -2,7 +2,7 @@
 
 ## About Me
 - Computer Science Student at **James Madison University**
-- 🔭 Currently working on **AWS CCP Certification** & **Cloud Traffic App**
+- 🔭 Currently working on **AWS CCP Certification**
 - 🌱 Learning **Cloud Computing** and **DevOps**
 - 💻 Interested in **System Design**, **Low-level Systems**, **Computer Networking**
 
