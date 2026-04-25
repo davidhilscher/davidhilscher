@@ -5,3 +5,6 @@
 - Currently working on **AWS CCP Certification**
 - Learning **Cloud Computing** and **C**
 - Interested in **Machine Learning** and **Low-Level Systems**
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidhilscher)
