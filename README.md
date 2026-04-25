@@ -7,4 +7,4 @@
 - Interested in **Machine Learning** and **Low-Level Systems**
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidhilscher&hide=HTML,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidhilscher&hide=HTML,CSS,Shell,JupyterNotebook)
