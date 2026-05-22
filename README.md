@@ -2,7 +2,7 @@
 
 ## About Me
 - Computer Science Student at **James Madison University**
-- Currently working on **AWS CCP Certification**
+- Currently working on **unix grep in C and unix shell**
 - Learning **Cloud Computing** and **C**
 - Interested in **Machine Learning** and **Low-Level Systems**
 
