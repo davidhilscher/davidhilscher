@@ -2,9 +2,6 @@
 
 ## About Me
 - Computer Science Student at **James Madison University**
+- Interested in Low-Level Systems and Performance Engineering
 - Currently working on **unix grep in C and unix shell**
-- Learning **Cloud Computing** and **C**
-- Interested in **Machine Learning** and **Low-Level Systems**
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidhilscher&hide=HTML,CSS,Shell,Dockerfile&theme=tokyonight)
+- Reading K&R C programming language/CS:APP
