@@ -1,8 +1,8 @@
-# Hello, I'm David Hilscher
+# Hello, I'm Dave
 
 ## About Me
 - Computer Science Student at **James Madison University**
 - Current: Performance Engineer Intern @HGN Systems
 - Interested in Low-Level Systems and Performance Engineering
-- Projects: **unix grep in C and unix shell** (in progress)
-- Reading K&R C programming language/CS:APP
+- Projects: **unix shell (C) and CLI task manager (C++)**
+- Reading CS:APP
