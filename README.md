@@ -2,7 +2,7 @@
 
 ## About Me
 - Computer Science Student at **James Madison University**
-- Current: Systems Engineer Intern @HGN Systems
-- Interested in Low-Level Systems and Performance Engineering
-- Projects: **unix shell (C) and CLI task manager (C++)**
+- Current: Systems SWE Intern @HGN Systems
+- Interested in Low-Latency Systems and CPU/GPUs
+- Projects: **unix shell (C) and Gradebook (C++)**
 - Reading CS:APP
