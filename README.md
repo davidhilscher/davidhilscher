@@ -6,3 +6,4 @@
 - Interested in Low-Latency Systems, Computer Architecture, and Algorithms
 - Projects: **unix shell (C), Gradebook (C++)**
 - Reading CS:APP & A Tour of C++ (3rd edition)
+- Main Language: C++17
