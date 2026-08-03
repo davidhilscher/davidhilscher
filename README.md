@@ -6,4 +6,3 @@
 - Interested in Distributed/Low-Latency Systems, Computer Architecture, and Algorithms
 - Projects: **Gradebook (C++), WagerPulse (Java), PokerBot (Python), unix shell (C)**
 - Reading CS:APP & C++ Concurrency in Action
-- Main Language: C++17
