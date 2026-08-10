@@ -4,5 +4,5 @@
 - Computer Science Student at **James Madison University**
 - Current: Systems SWE Intern @HGN Sense
 - Interested in Distributed/Low-Latency Systems, Computer Architecture, and Algorithms
-- Projects: **Gradebook (C++), WagerPulse (Java), PokerBot (Python), unix shell (C)**
+- Projects: **Vortex (C++), WagerPulse (Java), PokerBot (Python), unix shell (C)**
 - Reading CS:APP & C++ Concurrency in Action
