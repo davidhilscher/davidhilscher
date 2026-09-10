@@ -1,4 +1,4 @@
-# Hello, I'm Dave
+# Hello, I'm Dave / Jay
 
 ## About Me
 - Computer Science Student at **James Madison University**
